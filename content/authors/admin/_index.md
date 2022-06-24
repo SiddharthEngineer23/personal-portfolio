@@ -8,14 +8,10 @@ superuser: true
 # Role/position
 role: 'Senior at The Ohio State University and Data Science Intern at A.I.R.'
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: "The Ohio State University"
+- name: "American Institutes for Research"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
