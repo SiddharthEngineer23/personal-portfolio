@@ -5,65 +5,67 @@ title: Siddharth Engineer
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: 'Senior at The Ohio State University and Data Science Intern at A.I.R.'
+# Role/position/tagline
+role: Data Analytics Student
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: "The Ohio State University"
-- name: "American Institutes for Research"
+- name: Ohio State University
+  url: https://www.osu.edu/
+- name: American Institutes for Research
+  url: https://www.air.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a senior at The Ohio State University studying Data Analytics. I am also specializing in Computation Analytics with a machine learning focus, then I am minoring in Mathematics.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+# Interests to show in About widget
+interests:
+- Machine Learning and Artifical Intelligence
+- Computational Linguistics
+- Sports Analytics
+- Economics and Finance
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+# Education to show in About widget
+education:
+  courses:
+  - course: B.S. in Data Analytics
+    institution: The Ohio State University University
+    location: Columbus, Ohio
+    year: 2023
+  - course: High School Diploma
+    institution: Hawken High School
+    location: Gates Mills, Ohio
+    year: 2019
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: github
+  icon_pack: fab
+  link: https://github.com/SiddharthEngineer23
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/siddharth-engineer-041579193/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+# email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a third-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm a member of the [Big Data Analytics Association](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/)\
+\
+I'm interested in exploring the intersections of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
