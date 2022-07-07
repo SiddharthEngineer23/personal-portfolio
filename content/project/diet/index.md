@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Calorie Tracker
+summary: MyFitnessPal Food Journal
 tags:
-  - ML
-date: 2022-01-01
+  - FIT
+date: 2022-07-07
 external_link: http://github.com
 ---

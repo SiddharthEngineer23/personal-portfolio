@@ -1,8 +1,8 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Investment
+summary: Graphs and Stats
 tags:
-  - NLP
-date: 2022-01-01
+  - ECO
+date: 2022-07-07
 external_link: http://github.com
 ---

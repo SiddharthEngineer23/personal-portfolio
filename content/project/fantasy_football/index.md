@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Fantasy Football Results
+summary: Past performances
 tags:
-  - CV
-date: 2022-01-01
+  - SPO
+date: 2022-07-07
 external_link: http://github.com
 ---

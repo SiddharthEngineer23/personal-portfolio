@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Fitness
+      tag: FIT
+    - name: Sports
+      tag: SPO
+    - name: Economy
+      tag: ECO
 
 design:
   columns: '1'
