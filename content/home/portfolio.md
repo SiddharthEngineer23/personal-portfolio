@@ -8,7 +8,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: ''
 subtitle: ''
@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Sports
+      tag: Sports
+    - name: Fitness
+      tag: fitness
+    - name: Economy
+      tag: econ
 
 design:
   columns: '1'

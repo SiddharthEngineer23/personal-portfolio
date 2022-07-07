@@ -7,6 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
-    url: about/
+  - name: Projects
+    url: projects/
     weight: 20
+  - name: Resumé
+  url: about/
+  weight: 30
