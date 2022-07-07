@@ -16,14 +16,14 @@ organizations:
   url: https://www.air.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior at The Ohio State University studying Data Analytics. I am also specializing in Computation Analytics with a machine learning focus, then I am minoring in Mathematics.
+bio: Fourth-year Honors student at The Ohio State University and Data Science Intern at A.I.R.
 
 # Interests to show in About widget
 interests:
-- Machine Learning and Artifical Intelligence
+- Machine Learning
 - Computational Linguistics
 - Sports Analytics
-- Economics and Finance
+- Economics
 
 # Education to show in About widget
 education:
@@ -64,8 +64,8 @@ social:
 highlight_name: false
 ---
 
-I am a third-year student and [Eminence Fellow](https://honors-scholars.osu.edu/honors/eminence) at The Ohio State University majoring in data analytics with a data visualization specialization and minoring in sociology. I'm a member of the [Big Data Analytics Association](https://bdaaosu.org/) and [Cultivate Columbus](https://cultivatecolumbus.org/), as well as a research assistant in the [Department of Sociology](https://sociology.osu.edu/) and [Translational Data Analytics Institute (TDAI).](https://tdai.osu.edu/)\
+I've had internship experience in fixed-income finance and non-profit research. This broad range highlights my interest - exploring the applications of big data wherever it may apply. This has given me practice working with bond/stock tickers, patent data, tweets, time-series, and so much more. In my free time I enjoy using applied statistics to win my Fantasy Football League, lose less money in the stock market, and understand our political economy.\
 \
-I'm interested in exploring the intersections of  data analysis and other quantitative or qualitative forms of study, including machine learning, software development, computational social science, and more. In my free time, I enjoy pursuing personal hobbies, including music mixing and production, fitness, and enjoying the outdoors.
+For my education, I'm a fourth-year Honors student and at The Ohio State University. My major is in Data Analytics with a Machine Learning focused Computational Analytics specialization and I have a minor in Mathematics. I'm also a member of several student organizations including [BDAA - Big Data Analytics Association](https://bdaaosu.org/) and [BDAI - Big Data Analytics Investing](https://github.com/SiddharthEngineer23/Data-Analytics-Investing).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
