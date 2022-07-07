@@ -29,9 +29,9 @@ content:
     - name: All
       tag: '*'
     - name: Sports
-      tag: spo
+      tag: Sports
     - name: Fitness
-      tag: fit
+      tag: fitness
     - name: Economy
       tag: econ
 
