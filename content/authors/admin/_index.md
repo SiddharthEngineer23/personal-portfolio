@@ -64,7 +64,7 @@ social:
 highlight_name: false
 ---
 
-I've had internship experience in fixed-income finance and non-profit research. This broad range highlights my interest - exploring big data wherever it may apply. This has given me practice working with bond/stock tickers, patent data, tweets, time-series, and so much more. In my free time I enjoy using applied statistics to win my Fantasy Football League, lose less money in the stock market, and understand our political economy.\
+I've had internship experience in fixed-income finance and non-profit research. This broad range highlights my interest - exploring big data wherever it may apply. I have practice working with bond/stock tickers, patent data, tweets, time-series, and so much more. In my free time I enjoy using applied statistics to win my Fantasy Football League, lose less money in the stock market, and understand my personal fitness.\
 \
 For my education, I'm a fourth-year Honors student at The Ohio State University. I'm studying Data Analytics with a Machine Learning focused Computational Analytics specialization and a minor in Mathematics. I'm also a member of several student organizations including [BDAA - Big Data Analytics Association](https://bdaaosu.org/) and [BDAI - Big Data Analytics Investing](https://github.com/SiddharthEngineer23/Data-Analytics-Investing).
 
