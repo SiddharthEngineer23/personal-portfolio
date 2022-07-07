@@ -1,5 +1,5 @@
 ---
-title: Fantasy Football Results
+title: Fantasy Football
 summary: Past performances
 tags:
   - SPO
