@@ -1,8 +1,8 @@
 ---
-title: Investment
-summary: Graphs and Stats
+title: Xmas List
+summary: Xmas list program for families
 tags:
-  - ECO
-date: 2022-07-07
+  - XMAS
+date: 2022-12-04
 external_link: http://github.com
 ---
